@@ -1,0 +1,5 @@
+.main-container{
+  display: flex;
+  grid-template-columns: 200px 600px 200px;
+  align-items: center;
+}
